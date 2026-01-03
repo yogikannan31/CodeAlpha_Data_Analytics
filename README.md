@@ -3,6 +3,7 @@ This repository contains the work I completed during my **CodeAlpha Data Analyti
 Through these tasks, I gained hands-on experience in collecting data, analyzing it, and presenting insights in a clear and visual way using Python.
 ---
 Tasks Overview
+
 Task 1: Web Scraping using Python
 In this task, I worked on extracting real-time data from a website using **BeautifulSoup**.  
 The scraped data (quotes and authors) was cleaned and saved into a **CSV file** for further analysis.  
